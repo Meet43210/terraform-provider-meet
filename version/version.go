@@ -1,5 +1,6 @@
-package version
-
-var (
-	ProviderVersion = "devel"
-)
+{
+  "version": 1,
+  "metadata": {
+    "protocol_versions": ["5.0"],
+  },
+}
